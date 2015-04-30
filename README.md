@@ -13,7 +13,7 @@
     "auto_configure": {
       "replicaset": true
     },
-    "key_file": "foo",
+    "key_file_content": "foo",
     "admin": {
       "username": "baradmin",
       "password": "bar"
