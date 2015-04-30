@@ -13,14 +13,15 @@
     "auto_configure": {
       "replicaset": true
     },
+    "key_file": "foo",
     "admin": {
-      "username": "firstadmin",
-      "password": "15ed76b1b1f8ab089198263832918290"
+      "username": "baradmin",
+      "password": "bar"
     },
     "users": [
       {
-        "username": "firstuser",
-        "password": "082ef89165545110e2204c8bec04b2c8"
+        "username": "bazuser",
+        "password": "baz"
       }
     ]
   }
